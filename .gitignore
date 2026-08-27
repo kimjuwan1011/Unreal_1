@@ -1,7 +1,7 @@
 # Unreal Cache Folders #
-/Saved
-/DerivatedDataCache
-/Intermediate
+#/Saved
+#/DerivatedDataCache
+#/Intermediate
 /Binaries
 /Build
 
